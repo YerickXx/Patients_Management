@@ -1,6 +1,0 @@
-/build/
-/dist/
-/nbproject/private/
-*.class
-nbproject/genfiles.properties
-nbproject/project.xml.bak
